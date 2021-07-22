@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\c# intermediate\method\bin\Debug\netcoreapp3.1\method.exe
+C:\Users\RAYA\source\c# intermediate\method\bin\Debug\netcoreapp3.1\method.deps.json
+C:\Users\RAYA\source\c# intermediate\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.json
+C:\Users\RAYA\source\c# intermediate\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# intermediate\method\bin\Debug\netcoreapp3.1\method.dll
+C:\Users\RAYA\source\c# intermediate\method\bin\Debug\netcoreapp3.1\method.pdb
+C:\Users\RAYA\source\c# intermediate\method\obj\Debug\netcoreapp3.1\method.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\c# intermediate\method\obj\Debug\netcoreapp3.1\method.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# intermediate\method\obj\Debug\netcoreapp3.1\method.AssemblyInfo.cs
+C:\Users\RAYA\source\c# intermediate\method\obj\Debug\netcoreapp3.1\method.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# intermediate\method\obj\Debug\netcoreapp3.1\method.dll
+C:\Users\RAYA\source\c# intermediate\method\obj\Debug\netcoreapp3.1\method.pdb
+C:\Users\RAYA\source\c# intermediate\method\obj\Debug\netcoreapp3.1\method.genruntimeconfig.cache

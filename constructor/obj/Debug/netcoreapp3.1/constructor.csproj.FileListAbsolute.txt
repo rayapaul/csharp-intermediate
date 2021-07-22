@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\c# intermediate\constructor\bin\Debug\netcoreapp3.1\constructor.exe
+C:\Users\RAYA\source\c# intermediate\constructor\bin\Debug\netcoreapp3.1\constructor.deps.json
+C:\Users\RAYA\source\c# intermediate\constructor\bin\Debug\netcoreapp3.1\constructor.runtimeconfig.json
+C:\Users\RAYA\source\c# intermediate\constructor\bin\Debug\netcoreapp3.1\constructor.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# intermediate\constructor\bin\Debug\netcoreapp3.1\constructor.dll
+C:\Users\RAYA\source\c# intermediate\constructor\bin\Debug\netcoreapp3.1\constructor.pdb
+C:\Users\RAYA\source\c# intermediate\constructor\obj\Debug\netcoreapp3.1\constructor.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\c# intermediate\constructor\obj\Debug\netcoreapp3.1\constructor.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# intermediate\constructor\obj\Debug\netcoreapp3.1\constructor.AssemblyInfo.cs
+C:\Users\RAYA\source\c# intermediate\constructor\obj\Debug\netcoreapp3.1\constructor.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# intermediate\constructor\obj\Debug\netcoreapp3.1\constructor.dll
+C:\Users\RAYA\source\c# intermediate\constructor\obj\Debug\netcoreapp3.1\constructor.pdb
+C:\Users\RAYA\source\c# intermediate\constructor\obj\Debug\netcoreapp3.1\constructor.genruntimeconfig.cache
