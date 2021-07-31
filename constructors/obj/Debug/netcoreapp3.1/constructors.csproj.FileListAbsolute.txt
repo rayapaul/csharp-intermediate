@@ -1,0 +1,12 @@
+C:\Users\RAYA\source\c# intermediate\constructors\bin\Debug\netcoreapp3.1\constructors.exe
+C:\Users\RAYA\source\c# intermediate\constructors\bin\Debug\netcoreapp3.1\constructors.deps.json
+C:\Users\RAYA\source\c# intermediate\constructors\bin\Debug\netcoreapp3.1\constructors.runtimeconfig.json
+C:\Users\RAYA\source\c# intermediate\constructors\bin\Debug\netcoreapp3.1\constructors.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# intermediate\constructors\bin\Debug\netcoreapp3.1\constructors.dll
+C:\Users\RAYA\source\c# intermediate\constructors\bin\Debug\netcoreapp3.1\constructors.pdb
+C:\Users\RAYA\source\c# intermediate\constructors\obj\Debug\netcoreapp3.1\constructors.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# intermediate\constructors\obj\Debug\netcoreapp3.1\constructors.AssemblyInfo.cs
+C:\Users\RAYA\source\c# intermediate\constructors\obj\Debug\netcoreapp3.1\constructors.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# intermediate\constructors\obj\Debug\netcoreapp3.1\constructors.dll
+C:\Users\RAYA\source\c# intermediate\constructors\obj\Debug\netcoreapp3.1\constructors.pdb
+C:\Users\RAYA\source\c# intermediate\constructors\obj\Debug\netcoreapp3.1\constructors.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\constructorsPractice\obj\Debug\netcoreapp3.1\constructorsPractice.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\constructorsPractice\obj\Debug\netcoreapp3.1\constructorsPractice.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\constructorsPractice\obj\Debug\netcoreapp3.1\constructorsPractice.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\constructorsPractice\obj\Debug\netcoreapp3.1\constructorsPractice.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\constructorsPractice\bin\Debug\netcoreapp3.1\constructorsPractice.exe
+C:\Users\RAYA\source\repos\constructorsPractice\bin\Debug\netcoreapp3.1\constructorsPractice.deps.json
+C:\Users\RAYA\source\repos\constructorsPractice\bin\Debug\netcoreapp3.1\constructorsPractice.runtimeconfig.json
+C:\Users\RAYA\source\repos\constructorsPractice\bin\Debug\netcoreapp3.1\constructorsPractice.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\constructorsPractice\bin\Debug\netcoreapp3.1\constructorsPractice.dll
+C:\Users\RAYA\source\repos\constructorsPractice\bin\Debug\netcoreapp3.1\constructorsPractice.pdb
+C:\Users\RAYA\source\repos\constructorsPractice\obj\Debug\netcoreapp3.1\constructorsPractice.dll
+C:\Users\RAYA\source\repos\constructorsPractice\obj\Debug\netcoreapp3.1\constructorsPractice.pdb
+C:\Users\RAYA\source\repos\constructorsPractice\obj\Debug\netcoreapp3.1\constructorsPractice.genruntimeconfig.cache

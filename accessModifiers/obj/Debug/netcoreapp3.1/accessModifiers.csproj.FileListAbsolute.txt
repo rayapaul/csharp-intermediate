@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\c# intermediate\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.exe
+C:\Users\RAYA\source\c# intermediate\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.deps.json
+C:\Users\RAYA\source\c# intermediate\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.runtimeconfig.json
+C:\Users\RAYA\source\c# intermediate\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# intermediate\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.dll
+C:\Users\RAYA\source\c# intermediate\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.pdb
+C:\Users\RAYA\source\c# intermediate\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\c# intermediate\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# intermediate\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.AssemblyInfo.cs
+C:\Users\RAYA\source\c# intermediate\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# intermediate\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.dll
+C:\Users\RAYA\source\c# intermediate\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.pdb
+C:\Users\RAYA\source\c# intermediate\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.genruntimeconfig.cache

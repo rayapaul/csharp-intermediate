@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\c# intermediate\upcasting\bin\Debug\netcoreapp3.1\upcasting.exe
+C:\Users\RAYA\source\c# intermediate\upcasting\bin\Debug\netcoreapp3.1\upcasting.deps.json
+C:\Users\RAYA\source\c# intermediate\upcasting\bin\Debug\netcoreapp3.1\upcasting.runtimeconfig.json
+C:\Users\RAYA\source\c# intermediate\upcasting\bin\Debug\netcoreapp3.1\upcasting.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# intermediate\upcasting\bin\Debug\netcoreapp3.1\upcasting.dll
+C:\Users\RAYA\source\c# intermediate\upcasting\bin\Debug\netcoreapp3.1\upcasting.pdb
+C:\Users\RAYA\source\c# intermediate\upcasting\obj\Debug\netcoreapp3.1\upcasting.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\c# intermediate\upcasting\obj\Debug\netcoreapp3.1\upcasting.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# intermediate\upcasting\obj\Debug\netcoreapp3.1\upcasting.AssemblyInfo.cs
+C:\Users\RAYA\source\c# intermediate\upcasting\obj\Debug\netcoreapp3.1\upcasting.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# intermediate\upcasting\obj\Debug\netcoreapp3.1\upcasting.dll
+C:\Users\RAYA\source\c# intermediate\upcasting\obj\Debug\netcoreapp3.1\upcasting.pdb
+C:\Users\RAYA\source\c# intermediate\upcasting\obj\Debug\netcoreapp3.1\upcasting.genruntimeconfig.cache

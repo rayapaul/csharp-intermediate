@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\c# intermediate\classobj\obj\Debug\netcoreapp3.1\classobj.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\c# intermediate\classobj\obj\Debug\netcoreapp3.1\classobj.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# intermediate\classobj\obj\Debug\netcoreapp3.1\classobj.AssemblyInfo.cs
+C:\Users\RAYA\source\c# intermediate\classobj\obj\Debug\netcoreapp3.1\classobj.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# intermediate\classobj\bin\Debug\netcoreapp3.1\classobj.exe
+C:\Users\RAYA\source\c# intermediate\classobj\bin\Debug\netcoreapp3.1\classobj.deps.json
+C:\Users\RAYA\source\c# intermediate\classobj\bin\Debug\netcoreapp3.1\classobj.runtimeconfig.json
+C:\Users\RAYA\source\c# intermediate\classobj\bin\Debug\netcoreapp3.1\classobj.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# intermediate\classobj\bin\Debug\netcoreapp3.1\classobj.dll
+C:\Users\RAYA\source\c# intermediate\classobj\bin\Debug\netcoreapp3.1\classobj.pdb
+C:\Users\RAYA\source\c# intermediate\classobj\obj\Debug\netcoreapp3.1\classobj.dll
+C:\Users\RAYA\source\c# intermediate\classobj\obj\Debug\netcoreapp3.1\classobj.pdb
+C:\Users\RAYA\source\c# intermediate\classobj\obj\Debug\netcoreapp3.1\classobj.genruntimeconfig.cache

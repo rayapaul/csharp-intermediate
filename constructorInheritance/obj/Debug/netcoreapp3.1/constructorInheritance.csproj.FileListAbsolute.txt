@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\bin\Debug\netcoreapp3.1\constructorInheritance.exe
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\bin\Debug\netcoreapp3.1\constructorInheritance.deps.json
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\bin\Debug\netcoreapp3.1\constructorInheritance.runtimeconfig.json
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\bin\Debug\netcoreapp3.1\constructorInheritance.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\bin\Debug\netcoreapp3.1\constructorInheritance.dll
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\bin\Debug\netcoreapp3.1\constructorInheritance.pdb
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\obj\Debug\netcoreapp3.1\constructorInheritance.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\obj\Debug\netcoreapp3.1\constructorInheritance.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\obj\Debug\netcoreapp3.1\constructorInheritance.AssemblyInfo.cs
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\obj\Debug\netcoreapp3.1\constructorInheritance.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\obj\Debug\netcoreapp3.1\constructorInheritance.dll
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\obj\Debug\netcoreapp3.1\constructorInheritance.pdb
+C:\Users\RAYA\source\c# intermediate\constructorInheritance\obj\Debug\netcoreapp3.1\constructorInheritance.genruntimeconfig.cache
